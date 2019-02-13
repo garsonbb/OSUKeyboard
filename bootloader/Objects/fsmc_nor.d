@@ -1,0 +1,14 @@
+.\objects\fsmc_nor.o: src\fsmc_nor.c
+.\objects\fsmc_nor.o: .\inc\fsmc_nor.h
+.\objects\fsmc_nor.o: .\SYSTEM\sys\stm32f10x.h
+.\objects\fsmc_nor.o: .\SYSTEM\sys\core_cm3.h
+.\objects\fsmc_nor.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\fsmc_nor.o: .\SYSTEM\sys\system_stm32f10x.h
+.\objects\fsmc_nor.o: .\FWLIB\stm32f10x_conf.h
+.\objects\fsmc_nor.o: .\FWLIB\stm32f10x_exti.h
+.\objects\fsmc_nor.o: .\SYSTEM\sys\stm32f10x.h
+.\objects\fsmc_nor.o: .\FWLIB\stm32f10x_flash.h
+.\objects\fsmc_nor.o: .\FWLIB\stm32f10x_fsmc.h
+.\objects\fsmc_nor.o: .\FWLIB\stm32f10x_gpio.h
+.\objects\fsmc_nor.o: .\FWLIB\stm32f10x_rcc.h
+.\objects\fsmc_nor.o: .\FWLIB\misc.h

@@ -1,0 +1,14 @@
+.\objects\nor_if.o: src\nor_if.c
+.\objects\nor_if.o: .\inc\platform_config.h
+.\objects\nor_if.o: .\SYSTEM\sys\stm32f10x.h
+.\objects\nor_if.o: .\SYSTEM\sys\core_cm3.h
+.\objects\nor_if.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\nor_if.o: .\SYSTEM\sys\system_stm32f10x.h
+.\objects\nor_if.o: .\FWLIB\stm32f10x_conf.h
+.\objects\nor_if.o: .\FWLIB\stm32f10x_exti.h
+.\objects\nor_if.o: .\SYSTEM\sys\stm32f10x.h
+.\objects\nor_if.o: .\FWLIB\stm32f10x_flash.h
+.\objects\nor_if.o: .\FWLIB\stm32f10x_fsmc.h
+.\objects\nor_if.o: .\FWLIB\stm32f10x_gpio.h
+.\objects\nor_if.o: .\FWLIB\stm32f10x_rcc.h
+.\objects\nor_if.o: .\FWLIB\misc.h

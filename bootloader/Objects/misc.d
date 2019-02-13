@@ -1,0 +1,14 @@
+.\objects\misc.o: FWLIB\misc.c
+.\objects\misc.o: FWLIB\misc.h
+.\objects\misc.o: .\SYSTEM\sys\stm32f10x.h
+.\objects\misc.o: .\SYSTEM\sys\core_cm3.h
+.\objects\misc.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\misc.o: .\SYSTEM\sys\system_stm32f10x.h
+.\objects\misc.o: .\FWLIB\stm32f10x_conf.h
+.\objects\misc.o: .\FWLIB\stm32f10x_exti.h
+.\objects\misc.o: .\SYSTEM\sys\stm32f10x.h
+.\objects\misc.o: .\FWLIB\stm32f10x_flash.h
+.\objects\misc.o: .\FWLIB\stm32f10x_fsmc.h
+.\objects\misc.o: .\FWLIB\stm32f10x_gpio.h
+.\objects\misc.o: .\FWLIB\stm32f10x_rcc.h
+.\objects\misc.o: .\FWLIB\misc.h
