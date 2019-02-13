@@ -17,5 +17,5 @@ PCB就不放出来了（布线太难看了。。
 - [ ] 上位机软件
 
 ## 图片
-![](http://github.com/garsonbb/OSUKeyboard/raw/master/pic/5.jpg)
-![](http://github.com/garsonbb/OSUKeyboard/raw/master/pic/DSC3269.jpg)
+![](https://github.com/garsonbb/OSUKeyboard/blob/master/pic/5.png)
+![](https://github.com/garsonbb/OSUKeyboard/blob/master/pic/DSC3269.png)
